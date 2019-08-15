@@ -1,6 +1,7 @@
 body {
   padding-top:90px;
   line-height: 1.7
+  font-family: 'Open Sans', sans-serif;
 }
 
 @media (min-width:768px) {
@@ -25,6 +26,10 @@ a {
   left:0;
   right:0;
   z-index:1030;
+}
+
+.pdf-copywright-blurb {
+  color: #6b7a8f;
 }
 
 @media (min-width:768px) {
